@@ -1,0 +1,12 @@
+# requirements.txt - Зависимости для Media Workers
+
+# Core dependencies
+redis
+minio
+pymediainfo
+
+# Standard library enhancements
+python-dotenv
+
+# Development dependencies (for testing)
+pytest
