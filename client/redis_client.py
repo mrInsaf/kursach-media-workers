@@ -1,4 +1,6 @@
 # utils/redis_client.py
+import json
+
 import redis
 from config import REDIS_HOST, REDIS_PORT, REDIS_PASSWORD, REDIS_QUEUE_NAME
 
