@@ -1,4 +1,3 @@
-# utils/redis_client.py
 import json
 
 import redis

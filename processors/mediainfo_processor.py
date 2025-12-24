@@ -1,7 +1,6 @@
 import json
 import subprocess
 import os
-from pathlib import Path
 
 
 class MediaInfoProcessor:

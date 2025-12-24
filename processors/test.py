@@ -4,7 +4,6 @@ from processors.mediainfo_processor import MediaInfoProcessor
 
 if __name__ == "__main__":
     import os
-    from pathlib import Path
 
     print("📊 Тестирование MediaInfoProcessor...")
     print("=" * 50)

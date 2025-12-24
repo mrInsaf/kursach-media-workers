@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Media Worker - основное приложение для обработки видео задач
 Получает задачи из Redis, обрабатывает видео через FFmpeg и MediaInfo,
